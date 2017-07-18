@@ -1,0 +1,13 @@
+{
+    "name": "that-chris-r/styleguidekit-blade-default",
+    "authors": [
+        {
+            "name": "Christopher Rolfe",
+            "email": "christopher.rolfe198@gmail.com"
+        }
+    ],
+    "require": {
+        "pattern-lab/styleguidekit-assets-default": "^3.5",
+        "pattern-lab/core": "^2.7"
+    }
+}
